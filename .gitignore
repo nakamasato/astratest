@@ -1,0 +1,6 @@
+secure-connect-trial.zip
+.DS_Store
+.gradle
+build
+.idea
+*.iml
